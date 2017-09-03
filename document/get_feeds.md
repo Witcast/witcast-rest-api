@@ -14,6 +14,12 @@ http://xxx.xxx.xxx.xxx:xxxx/api/v1/feeds
 http://xxx.xxx.xxx.xxx:xxxx/api/v1/feeds
 ```
 
+## Sub Path
+```
+/main
+```
+Get only main episodes
+
 ## Method
 
 ```
