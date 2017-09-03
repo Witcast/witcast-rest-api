@@ -5,13 +5,13 @@ This service for get main episode.
 ## URL Test
 
 ```
-http://xxx.xxx.xxx.xxx:xxxx/api/v1/mains
+http://xxx.xxx.xxx.xxx:xxxx/api/v1/feeds/mains
 ```
 
 ## URL Production
 
 ```
-http://xxx.xxx.xxx.xxx:xxxx/api/v1/mains
+http://xxx.xxx.xxx.xxx:xxxx/api/v1/feeds/mains
 ```
 
 ## Method
