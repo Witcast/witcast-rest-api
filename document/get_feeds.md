@@ -57,7 +57,7 @@ password = "1qazZAQ!"
 | Field               | Data Type            | Description                    | Mandatory/Optional  |
 | ------------------- | -------------------- | ------------------------------ | ------------------- |
 | success             | boolean              | Value is "true"                | Mandatory           |
-| data                | feed object          | Transaction detail   			    | Mandatory           |
+| data                | feed object          | Feed list     			      | Mandatory           |
 
 ## Transaction Object   
 
